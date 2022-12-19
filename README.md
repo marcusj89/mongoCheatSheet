@@ -3,7 +3,7 @@
 > MongoDB Crash Course 2022 < TODO: Add Video Link
 
 ## Table of Contents
-- [Check `mongosh` Version](#check-monosh-version)
+- [Check `mongosh` Version](#check-mongosh-version)
 - [Start the Mongo Shell](#start-the-mongo-shell)
 - [Show Current Database](#show-current-database)
 - [Show All Databases](#show-all-databases)
