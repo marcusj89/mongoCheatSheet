@@ -29,7 +29,7 @@
 - [Delete Multiple Documents](#delete-multiple-documents)
 - [Greater & Less Than](#greater--less-than)
 
-## Check `monosh` Version
+## Check `mongosh` Version
 
 ```js
 mongosh --version
